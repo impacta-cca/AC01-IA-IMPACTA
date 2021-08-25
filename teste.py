@@ -1,0 +1,3 @@
+from BuscaLargura import *
+
+executaBFS()
