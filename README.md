@@ -4,8 +4,8 @@ Faculdade Impacta
 
 INTEGRANTES:
 
-Arthur Silva
-Lucas da Silva
-Larissa Ionafa
-Carolina de Castro
-Roberta Yumi
+- Arthur Silva
+- Lucas da Silva
+- Larissa Ionafa
+- Carolina de Castro
+- Roberta Yumi
