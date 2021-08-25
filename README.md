@@ -1,4 +1,4 @@
-Atividade Continua 2 - Estrutura de Dados
+Atividade Continua 1 parte 1 - Inteligência Artificial
 
 Faculdade Impacta
 
