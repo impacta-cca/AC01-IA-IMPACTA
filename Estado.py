@@ -16,7 +16,7 @@ class Estado():
         """
         Este método retorna o nome  Ana
         """
-        estadoInicial= "127.0.0.1"
+        estadoInicial= "127.98.0.7"
         return estadoInicial
 
     def funcaoSucessora(self):
